@@ -12,3 +12,10 @@ for i in range(0,c):
     res.append(a + i * b)
 
 print(res)
+
+# a1, d, n = [int(el) for el in input("Введите a1, d, n ").split()]
+
+# def create_arith_progression(start, step, lenght):
+#     return [start + step * idx for idx in range(lenght)]
+
+# print(create_arith_progression(a1, d, n))
